@@ -58,6 +58,5 @@ client.close()
 <img width="1037" height="217" alt="image" src="https://github.com/user-attachments/assets/9115092e-6e2a-49e4-b013-101d2fbdc41d" />
 
 ## RESULT:
-Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links was successfully created and executed.
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
